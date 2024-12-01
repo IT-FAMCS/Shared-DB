@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7^bo%(x3ukxs2uqq=fqnk&l2vl!p4i$l3lo^brchr13)33_^kx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['legacy-famcs.store']
+ALLOWED_HOSTS = ['legacy-famcs.store', '127.0.0.1']
 
 
 # Application definition
